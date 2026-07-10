@@ -1,18 +1,17 @@
-# Hi there, I'm Aum 👋
+# Hi there, I'm Aum Parmar 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-%23311B92?style=for-the-badge&logo=github&logoColor=white" width="100%" alt="Header Banner" />
+  <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-%23311B92?style=for-the-badge&logo=github&logoColor=white" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=500&lines=Distributed+Systems+Expert;AI+%2F+ML+Infrastructure;Full+Stack+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;React.js+Explorer;Full+Stack+Aspire" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-Student-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Vadodara%2C+India-311B92?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Location-Gujarat%2C+India-311B92?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
   <a href="https://linkedin.com/in/aum-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:engineer@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:parmaraum31@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/aum-22007"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -23,155 +22,48 @@
 ---
 
 ## 01. About Me
-Computer Science student at The Maharaja Sayajirao University of Baroda. Focused on building foundations in full-stack web development, data structures, and software engineering.
+I'm a passionate Frontend Developer from Gujarat, India, who enjoys creating responsive and user-friendly web applications. I love building modern web interfaces, exploring new technologies, and continuously improving my development skills. Currently, I'm focusing on strengthening my JavaScript knowledge, learning React.js, and working toward becoming a Full Stack Developer.
 
-* **Core Focus:** Full-Stack Development, Problem Solving, Core CS Fundamentals.
-* **Design Philosophy:** Minimalist execution, highly modular systems, robust coding.
-* **Open To:** High-impact Open Source collaboration and Software Engineering opportunities.
+* 🔭 **Currently working on:** Frontend Web Development projects using HTML, CSS & JavaScript.
+* 👯 **Looking to collaborate on:** Open Source and Frontend Web Development projects.
+* 🤝 **Looking for help with:** React.js, Backend Development, REST APIs, and Full Stack Development.
+* 🌱 **Currently learning:** Advanced JavaScript, React.js, Git & GitHub, and Data Structures & Algorithms.
+* 💬 **Ask me about:** HTML, CSS, JavaScript, Responsive Web Design, Git, and GitHub.
+* ⚡ **Fun fact:** I enjoy turning creative UI designs into responsive and interactive websites while continuously learning new technologies.
 
 ---
 
 ## 02. Tech Stack
 
 ### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js" alt="Languages" />
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Core Expertise
-* **Data Structures and Algorithms (DSA)**
-* **Database Management System (DBMS)**
-* **Full-Stack Web Development & Design**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" alt="DevOps and Cloud" />
-</p>
+### Backend & Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 03. AI / ML Expertise
+## 03. I Am Iron Man ⚡
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Large Language Models** | Advanced | RAG pipelines, fine-tuning, orchestration via LangChain & LlamaIndex. |
-| **Deep Learning** | Advanced | Computer Vision, NLP architecture optimization using PyTorch. |
-| **MLOps Infrastructure** | Intermediate | Automated training & deployment workflows via Kubeflow and MLflow. |
-| **Vector Databases** | Advanced | High-dimensional similarity indexing leveraging Pinecone and Milvus. |
-
----
-
-## 04. Featured Projects
-
-<details>
-<summary><b>⚡ Project Alpha: Enterprise RAG Orchestrator</b></summary>
-<br>
-
-An enterprise-grade Retrieval-Augmented Generation pipeline engineered to query multi-terabyte internal documents with sub-second latency constraints.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, FastAPI, PyTorch, Pinecone, Kubernetes |
-| **Scale** | 10M+ Document Vector Indexes |
-| **Performance** | P99 latency less than 250ms for generation steps |
-| **Security** | RBAC, AES-256 at rest, TLS 1.3 in transit |
-| **Impact** | Reduced information discovery time across internal engineering teams by 40% |
-| **Repository** | [Access Codebase](https://github.com) |
-
-#### Technical Overview
-The system uses custom-trained sparse-dense hybrid embedding models distributed across GPU pools managed by a custom Kubernetes controller. Cached layers utilize Redis clusters to circumvent redundant foundational LLM inference invocations.
-</details>
-
-<details>
-<summary><b>🌐 Project Beta: Distributed FinTech Ledger</b></summary>
-<br>
-
-A high-frequency transactional ledger featuring strict linearizability and immutable distributed auditing logs.
-
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Go, gRPC, PostgreSQL, Redis, Kafka |
-| **Scale** | 50,000 TPS sustained load |
-| **Performance** | Dual-write confirmation under 15ms |
-| **Security** | End-to-end cryptographic payload signing |
-| **Impact** | Facilitated $100M+ secure daily ledger settlements |
-| **Repository** | [Access Codebase](https://github.com) |
-
-#### Technical Overview
-Built on a modified Raft consensus mechanism optimizing message overheads. Utilizes Apache Kafka for durable, partition-safe transaction streaming into isolated sharded PostgreSQL write-ahead execution targets.
-</details>
-
----
-
-## 05. Experience
-
-#### **Staff Software Engineer** | **Enterprise AI Solutions**
-*Jan 2024 — Present*
-> Architecting next-generation business intelligence tooling processing core infrastructure telemetry.
-* Lead a cross-functional team of 8 engineers delivering the real-time telemetry processing platform.
-* Reduced cloud operational expenditure by $1.2M annually via intelligent resource orchestration policies.
-* Overhauled continuous integration deployments, dropping median migration cycles from hours to minutes.
-
-`Go` `Python` `Kubernetes` `AWS` `gRPC` `Apache Kafka`
-
-#### **Senior Software Engineer** | **FAANG Corporation**
-*Jun 2021 — Dec 2023*
-> Optimized storage system primitives handling user data distribution across global availability zones.
-* Designed highly concurrent processing nodes eliminating critical blocking deadlocks under surge load.
-* Authored standard compliance security layers protecting critical APIs against exfiltration attacks.
-
-`C++` `Rust` `Distributed Systems` `Linux` `Docker`
-
----
-
-## 06. Achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| **Global Engineering Excellence Award** | Awarded for architectural contribution saving multi-region network failover degradation times. |
-| **1st Place Hackathon Winner** | Designed and presented decentralized zero-knowledge compliance auditing protocol out of 500 teams. |
-| **Open Source Core Contributor** | Active structural performance maintenance within premium system networking libraries. |
-
----
-
-## 07. Certifications
-
-### Amazon Web Services
-<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAP" /> <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Engineer_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DOP" />
-
-### Professional Certifications
-<img src="https://img.shields.io/badge/Oracle-Java_SE_17_Developer_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java SE 17" /> <img src="https://img.shields.io/badge/Cisco-CCNA-1Y72B4?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-
----
-
-## 08. Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Guardian_Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Elite_Contributor-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-6_Star_Problem_Solving-1BA054?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
-
----
-
-## 09. GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=dark&bg_color=0D1117&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=dark&bg_color=0D1117&title_color=9061FF&text_color=C9D1D9&border_color=30363D" width="48%" alt="Top Languages" />
-</p>
-
----
-
-## 10. Current Focus
-
-```yaml
-learning:
-  - Advanced Quantum Computing Simulation Models
-  - Low-Level Kernel Optimization Patterns
-building:
-  - High-Performance Custom Distributed Graph Database
-exploring:
-  - WebAssembly (Wasm) Edge Deployment Infrastructures
-openTo:
-  - Deep-Tech Advisory Roles & Strategic Advisory Boards
+```text
+               .---.
+              /     \
+              | O _ O |
+              /   _   \
+             / / | | \ \
+            / /  |_|  \ \
+           |             |
+           |   _     _   |
+           |  | |   | |  |
+           |  |_|   |_|  |
+           |  [_______]  |
+           \             /
+            \___________/
+                 | |
+                 | |
+        _________| |_________
+       /                     \
+      /  I LOVE YOU THREE     \
+     /       THOUSAND          \
