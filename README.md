@@ -1,7 +1,7 @@
 # Hi there, I'm Aum 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-%239061FF?style=for-the-badge&logo=github&logoColor=white" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/main?type=wave&color=auto:gradient&customColorList=10,13,50,91,15&height=220&section=header&text=SOFTWARE%20ENGINEER&fontSize=55&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ Focused on clean routing, form handling, and backend data validation across the 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aum-22007&theme=dark&background=0D1117&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D" width="100%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=aum-22007&theme=dark&background=0D1117&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D" width="100%" alt="Streak Stats" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ Focused on clean routing, form handling, and backend data validation across the 
 ## 07. Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aum-22007&theme=react-dark&bg_color=0D1117&color=9061FF&line=7B1FA2&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
