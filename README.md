@@ -127,10 +127,10 @@ Focused on clean routing, form handling, and backend data validation across the 
 
 ---
 
-## 07. Contribution Snake
+## 07. Contribution 3D Isometric View
 
 <p align="center">
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://github-profile-3d-contrib.20301018.xyz/api?username=aum-22007&theme=dark" width="100%" alt="3D Isometric Contributions" />
 </p>
 
 ---
