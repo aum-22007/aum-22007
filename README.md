@@ -9,45 +9,39 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-M.S.+Computer+Science-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-San+Francisco%2C+CA-311B92?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Premium-6A1B9A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Degree-Student-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Vadodara%2C+India-311B92?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
   <a href="https://linkedin.com/in/aum-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:engineer@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/aum-22007"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=premium-faang-engineer&color=7B1FA2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aum-22007&color=7B1FA2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 ## 01. About Me
-An enterprise-focused Software Engineer specialized in designing, optimizing, and deploying planet-scale distributed systems and advanced AI/ML infrastructure. Operating with a core product engineering mindset, I bridge the gap between complex algorithmic foundations and robust full-stack solutions. 
+Computer Science student at The Maharaja Sayajirao University of Baroda. Focused on building foundations in full-stack web development, data structures, and software engineering.
 
-* **Core Expertise:** High-Throughput Microservices, AI Pipelines, MLOps, Distributed Ledger Tech.
-* **Design Philosophy:** Minimalist execution, highly modular systems, zero-trust security.
-* **Open To:** Core Infrastructure roles, AI/ML Engineering initiatives, High-impact Open Source collaboration.
+* **Core Focus:** Full-Stack Development, Problem Solving, Core CS Fundamentals.
+* **Design Philosophy:** Minimalist execution, highly modular systems, robust coding.
+* **Open To:** High-impact Open Source collaboration and Software Engineering opportunities.
 
 ---
 
 ## 02. Tech Stack
 
-### Languages
+### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,rust" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js" alt="Languages" />
 </p>
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,postgres,mongodb,redis,elasticsearch" alt="Backend and Databases" />
-</p>
+### Core Expertise
+* **Data Structures and Algorithms (DSA)**
+* **Database Management System (DBMS)**
+* **Full-Stack Web Development & Design**
 
 ### Cloud, DevOps & Tooling
 <p align="left">
@@ -163,8 +157,8 @@ Built on a modified Raft consensus mechanism optimizing message overheads. Utili
 ## 09. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premium-faang-engineer&show_icons=true&theme=dark&bg_color=0D1117&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=premium-faang-engineer&layout=compact&theme=dark&bg_color=0D1117&title_color=9061FF&text_color=C9D1D9&border_color=30363D" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=dark&bg_color=0D1117&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=dark&bg_color=0D1117&title_color=9061FF&text_color=C9D1D9&border_color=30363D" width="48%" alt="Top Languages" />
 </p>
 
 ---
