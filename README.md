@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=wave&color=auto:gradient&customColorList=10,13,50,91,15&height=220&section=header&text=SOFTWARE%20ENGINEER&fontSize=55&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto:gradient&customColorList=10,13,50,91,15&height=220&section=header&text=SOFTWARE%20ENGINEER&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Engineer;Backend+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9061FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Engineer;Backend+Engineer;Problem+Solver" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.S.+Computer+Science-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Premium-6A1B9A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aum-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:engineer@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/aum-22007"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Degree-B.S.+Computer+Science-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
+  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Premium-6A1B9A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aum-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:engineer@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aum-22007"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -26,22 +26,19 @@
 
 A Full Stack Developer focused on building clean, responsive, and well-structured web applications from the frontend down to the backend. I care about writing maintainable code, thoughtful UI/UX, and reliable server-side logic.
 
-* **Core Expertise:** Frontend Development, Backend Development, REST APIs, Web Application Architecture.
-* **Design Philosophy:** Clean code, modular components, practical over flashy.
-* **Open To:** Full Stack Developer roles, Frontend Engineering roles, Backend Engineering roles.
+* 🧠 **Core Expertise:** Frontend Development, Backend Development, REST APIs, Web Application Architecture.
+* 🎨 **Design Philosophy:** Clean code, modular components, practical over flashy.
+* 💼 **Open To:** Full Stack Developer roles, Frontend Engineering roles, Backend Engineering roles.
 
 ---
 
 ## 02. Tech Stack
 
-### Frontend Frameworks
+### Frontend & Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,html,css,js" alt="Frontend Frameworks" />
-</p>
-
-### Backend Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,laravel" alt="Backend Frameworks" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,html,css,js,nodejs,express,django,flask,spring,laravel&theme=dark" alt="My Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -110,12 +107,12 @@ Focused on clean routing, form handling, and backend data validation across the 
 ## 05. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=dark&bg_color=0D1117&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=aum-22007&theme=dark&background=0D1117&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=transparent&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D&cache_id=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aum-22007&theme=transparent&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D&cache_id=1" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=dark&bg_color=0D1117&title_color=9061FF&text_color=C9D1D9&border_color=30363D" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=transparent&title_color=9061FF&text_color=C9D1D9&border_color=30363D&cache_id=1" width="60%" alt="Top Languages" />
 </p>
 
 ---
@@ -148,21 +145,3 @@ exploring:
   - New Frontend and Backend Frameworks
 openTo:
   - Full Stack / Frontend / Backend Developer Roles
-```
-
----
-
-## 09. Connect
-
-<p align="center">
-  <a href="mailto:engineer@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/aum-cs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/aum-22007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/main?type=wave&color=auto:gradient&customColorList=10,13,50,91,15&height=120&section=footer" width="100%" alt="Footer Banner" />
-</p>
