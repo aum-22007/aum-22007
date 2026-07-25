@@ -1,72 +1,51 @@
-<!-- Profile Header -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=auto:gradient&customColorList=10,13,50,91,15&height=220&section=header&text=AUM%20PARMAR&fontSize=60&fontColor=ffffff&animation=fadeIn"
-    width="100%"
-    alt="Aum Parmar Profile Header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto:gradient&customColorList=10,13,50,91,15&height=220&section=header&text=COMPUTER%20ENGINEERING%20STUDENT&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9061FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Web+Developer;DSA+Learner;Problem+Solver;Cybersecurity+Enthusiast"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=9061FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Web+Developer;DSA+Learner;Problem+Solver;Cybersecurity+Enthusiast" alt="Typing Animation" />
 </p>
 
-<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/aum-22007">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Engineering-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Degree" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6A1B9A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/aum-22007">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<!-- Profile Stats -->
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=aum-22007&color=7B1FA2&style=flat-square&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/aum-22007?label=Followers&style=flat-square&color=4A148C"
-    alt="GitHub Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/aum-22007?label=Stars&style=flat-square&color=311B92"
-    alt="GitHub Stars"
-  />
+  <img src="https://komarev.com/ghpvc/?username=aum-22007&color=7B1FA2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aum-22007?label=Followers&style=flat-square&color=4A148C" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/aum-22007?label=Stars&style=flat-square&color=311B92" alt="Stars" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 01. About Me
 
-I'm **Aum Parmar**, a Computer Engineering student passionate about software development, problem solving, and learning new technologies.
+I'm a Computer Engineering student and developer interested in building practical software, solving problems, and continuously improving my technical skills.
 
-Currently, I'm focusing on **Data Structures and Algorithms** while building my skills in **Web Development** and exploring **Cybersecurity**.
+Currently, I'm focusing on **Data Structures and Algorithms**, while continuing to build my foundation in **Full Stack Web Development**.
 
-- 🎓 Pursuing **B.Tech in Computer Engineering**
-- 💻 Learning **Data Structures & Algorithms**
-- 🌐 Exploring **Full Stack Web Development**
-- 🚀 Learning the **MERN Stack**
-- 🛡️ Interested in **Cybersecurity & Bug Bounty**
-- 🧠 Interested in **Problem Solving**
-- 🔨 Building projects to improve my practical skills
+* 💻 **Current Focus:** Data Structures & Algorithms, C++, Problem Solving
+* 🌐 **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express
+* 🗄️ **Database:** MySQL, MongoDB
+* 🛡️ **Exploring:** Cybersecurity and Bug Bounty
+* 🚀 **Goal:** Build useful projects and become a strong software engineer
+* 📚 **Learning:** MERN Stack and modern web development
 
 ---
 
-## 🛠️ Tech Stack
+## 02. Tech Stack
 
 ### Languages
 
@@ -74,126 +53,145 @@ Currently, I'm focusing on **Data Structures and Algorithms** while building my 
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,php" alt="Programming Languages" />
 </p>
 
-### Web Development
+### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap" alt="Web Development Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
-### Databases
+### Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb" alt="Backend and Database Technologies" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and Platforms" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 03. Featured Projects
 
-### ⚔️ CodeWarrior Arena
+<details>
+<summary><b>⚔️ CodeWarrior Arena</b></summary>
+<br>
 
-A gamified platform designed to help beginners learn and practice **C programming** through interactive learning and coding challenges.
+A gamified learning platform designed to help beginners learn and practice C programming through interactive lessons and coding challenges.
 
-**Tech Stack:**
+| Dimension    | Specification                           |
+| :----------- | :-------------------------------------- |
+| **Frontend** | HTML, CSS, JavaScript                   |
+| **Backend**  | PHP                                     |
+| **Database** | MySQL                                   |
+| **Focus**    | Interactive Learning, Coding Challenges |
+| **Status**   | In Development                          |
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+#### Features
 
-**Features:**
+* Interactive C programming tutorials
+* Level-based coding challenges
+* Real-time coding feedback
+* User progress tracking
+* Admin dashboard
+* AI-powered learning assistance
 
-- Interactive C programming tutorials
-- Level-based coding challenges
-- Coding practice
-- Progress tracking
-- Admin dashboard
-- AI-powered learning assistance
+</details>
+
+<details>
+<summary><b>🌦️ Weather Application</b></summary>
+<br>
+
+A web application that displays real-time weather information using a weather API.
+
+| Dimension    | Specification                  |
+| :----------- | :----------------------------- |
+| **Frontend** | HTML, CSS, JavaScript          |
+| **API**      | Weather API                    |
+| **Focus**    | API Integration, Responsive UI |
+| **Status**   | Learning Project               |
+
+#### Overview
+
+Built to practice working with APIs, asynchronous JavaScript, dynamic data rendering, and responsive frontend design.
+
+</details>
+
+<details>
+<summary><b>🌐 Personal Portfolio</b></summary>
+<br>
+
+A personal portfolio website showcasing my projects, technical skills, learning journey, and achievements.
+
+| Dimension    | Specification                        |
+| :----------- | :----------------------------------- |
+| **Frontend** | HTML, CSS, JavaScript                |
+| **Focus**    | Personal Branding, Responsive Design |
+| **Status**   | In Development                       |
+
+</details>
 
 ---
 
-### 🌦️ Weather Application
+## 04. Education
 
-A web application built to practice working with APIs and dynamic data.
+### 🎓 B.Tech in Computer Engineering
 
-**Tech Stack:**
+Currently pursuing a Bachelor's degree in Computer Engineering.
 
-`HTML` `CSS` `JavaScript` `Weather API`
+My current academic focus includes:
 
-**What I Learned:**
-
-- API integration
-- Asynchronous JavaScript
-- Fetching external data
-- Dynamic DOM manipulation
-- Responsive UI design
+* Data Structures and Algorithms
+* Database Management Systems
+* Computer Architecture
+* Microprocessors
+* Operating Systems
+* Web Development
 
 ---
 
-## 📊 GitHub Analytics
+## 05. GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=transparent&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aum-22007&theme=transparent&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D"
-    width="48%"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aum-22007&show_icons=true&theme=transparent&title_color=9061FF&icon_color=7B1FA2&text_color=C9D1D9&border_color=30363D&cache_id=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aum-22007&theme=transparent&title=9061FF&sideNums=C9D1D9&sideLabels=C9D1D9&ring=7B1FA2&fire=9061FF&border=30363D&cache_id=1" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=transparent&title_color=9061FF&text_color=C9D1D9&border_color=30363D"
-    width="60%"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=aum-22007&layout=compact&theme=transparent&title_color=9061FF&text_color=C9D1D9&border_color=30363D&cache_id=1" width="60%" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 06. Contribution Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/aum-22007/aum-22007/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aum-22007&theme=react-dark&bg_color=0D1117&color=9061FF&line=7B1FA2&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 07. Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aum-22007&theme=react-dark&bg_color=0D1117&color=9061FF&line=7B1FA2&point=ffffff&area=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="https://raw.githubusercontent.com/aum-22007/aum-22007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 08. Current Focus
 
 ```yaml
-currently_learning:
+learning:
   - Data Structures and Algorithms
   - C++
-  - JavaScript
+  - Advanced JavaScript
   - MERN Stack
   - Database Management Systems
 
-currently_building:
+building:
   - Personal Portfolio
   - Full Stack Web Applications
   - CodeWarrior Arena
@@ -203,8 +201,20 @@ exploring:
   - Bug Bounty
   - Open Source
 
-goals:
-  - Improve Problem Solving
+current_goal:
+  - Strengthen Problem Solving Skills
   - Build Real-World Projects
-  - Contribute to Open Source
   - Become a Strong Software Engineer
+```
+
+---
+
+## 09. Let's Connect
+
+I'm always interested in learning, building, and connecting with other developers and technology enthusiasts.
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
